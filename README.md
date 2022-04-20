@@ -6,4 +6,5 @@ This is also for the fifth commit.
 New commit, after hotfix.
 
 # New Section
-First change since updating default branch.
+First change since updating default branch
+Second change since updating default branch.
