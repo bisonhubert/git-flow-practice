@@ -8,3 +8,6 @@ New commit, after hotfix.
 # New Section
 First change since updating default branch.
 Second change since updating default branch.
+
+# New Section
+First change since second hotfix.
